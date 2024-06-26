@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachanachandupatla&label=Profile%20views&color=0e75b6&style=flat" alt="rachanareddychadupatla" /> </p>
 
 <!-- - 🌱 I’m currently developing ** Responsive web applications** -->
-- 🌱 I’m currently pursuing **Masters in Computer Science** from **Arizona State University**
+- 🌱 I did **Masters in Computer Science** from **Arizona State University**
 
 - 👨‍💻 Know more about me at [https://rachanareddychandupatla.github.io](https://rachanareddychandupatla.github.io)
 
